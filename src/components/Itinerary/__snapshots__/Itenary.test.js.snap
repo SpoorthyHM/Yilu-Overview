@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Itenary /> should render correctly with empty props 1`] = `ShallowWrapper {}`;
+
+exports[`<Itenary /> should render correctly with props 1`] = `ShallowWrapper {}`;
